@@ -1,0 +1,26 @@
+
+html {
+    font-family: "Catamaran", sans-serif;
+    background-color: rgb(255, 240, 100);
+}
+header {
+    background-color: rgb(255, 240, 100);
+    padding: 60px 0px;
+    margin-top: 0px;
+    text-align: center;
+    color: rgb(110, 110, 110);
+}
+div {
+    text-align: center;
+    box-shadow: 5px 5px 25px rgb(77, 77, 77);
+    padding: 12px;
+    margin: 24px;
+    border-radius: 12px;
+    background-color: rgb(255, 255, 255);
+}
+p {
+    padding:12px
+}
+h3 {
+    color: rgb(110, 110, 110);
+}
